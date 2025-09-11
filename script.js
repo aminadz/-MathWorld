@@ -5600,7 +5600,7 @@ function setupAndroidDownloadButton() {
     if (androidButton) {
         androidButton.addEventListener('click', function(e) {
             e.preventDefault();
-            const url = 'https://mega4upload.net/tgbzeics47bg';
+            const url = 'https://mega4upload.net/edkld7nrqk0w';
             window.open(url, '_blank');
             console.log('Opening Android download link:', url);
         });
@@ -5609,7 +5609,7 @@ function setupAndroidDownloadButton() {
 
 // Global function for Android download
 function downloadAndroid() {
-    const url = 'https://mega4upload.net/tgbzeics47bg';
+    const url = 'https://mega4upload.net/edkld7nrqk0w';
     try {
         window.open(url, '_blank');
         console.log('Opening Android download link:', url);
